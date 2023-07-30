@@ -1,0 +1,20 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  background-color: #F0F2F5;
+}
+
+.container1 {
+  margin: 1rem;
+}
+
+
+
+.site-title {
+  font-size: 2rem;
+}
+
+
