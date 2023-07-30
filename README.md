@@ -17,4 +17,13 @@ The backend of the project is built with Node.js and uses a non-relational Mongo
 3. Run `npm i` to install the dependencies.
 4. Use `npm run dev` to start the backend server.
 
+## JunkDataGeneration
+
+For the generation of junk data, the code from the JunkDataGeneration.ipnyb file was used.
+
+1. Run the library installation cell.
+2. Run the second cell of the file. (Users are generated)
+3. Run the third cell of the file. (Put in the for the number of blocks you want to generate)
+4. Export the .json files to the database users and blockchains collections in MongoDB.
+
 
