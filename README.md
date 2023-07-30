@@ -1,5 +1,7 @@
 # BlockChainConsent
 
+For the correct execution of the system, you have to have nodejs installed,
+
 ## Frontend
 
 The frontend of the project is developed in React.js. To run it, follow these steps:
